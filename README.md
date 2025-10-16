@@ -1,6 +1,6 @@
 # On the patterns of genetic intra-tumour heterogeneity before and after treatment
 
-This repository contains code files and figures to accompany the manuscript "On the patterns of genetic intra-tumour heterogeneity before and after treatment" found in this link. (The link will be updated.)
+This repository contains code files and figures to accompany the manuscript "On the patterns of genetic intra-tumour heterogeneity before and after treatment" found in this [this link](https://doi.org/10.1093/genetics/iyaf101)
 
 The source code is embedded in an environment that we call _phylo_.
 
